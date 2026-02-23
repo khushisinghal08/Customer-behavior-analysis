@@ -7,6 +7,7 @@ Exploratory Data Analysis (EDA)
 SQL Querying & Data Extraction
 Data Visualization
 Business Insight Generation
+
 The dataset contains structured data related to business performance (e.g., sales/customers/products/transactions).
 It includes:
 Multiple attributes (categorical + numerical)
@@ -19,6 +20,7 @@ PostgreSQL / MySQL / SQL Server – Writing SQL queries for analysis
 Power BI – Interactive dashboard creation
 Gamma – Presentation (PPT) creation
 Jupyter Notebook – Development environment
+
 Project Workflow / Steps
 1️⃣ Data Loading (Python)
 Imported dataset using Pandas
@@ -71,12 +73,14 @@ Customer segmentation insights
  Revenue distribution analysis
  Interactive slicers for dynamic filtering
 The dashboard enables stakeholders to make data-driven decisions efficiently.
+
 Key Results & Insights
 Identified top-performing segments contributing maximum revenue
 Discovered seasonal/monthly sales trends
 Highlighted underperforming categories
 Provided actionable recommendations for business growth
 This project demonstrates the ability to transform raw data into meaningful business insights.
+
 How to Run the Project
 🔹 Python (EDA & Cleaning)
 Clone the repository
